@@ -14,5 +14,5 @@ Die in GeoPDEs mitgelieferte Version der NURBS Toolbox ist nicht die aktuelle,
 stattdessen sollte man sie separat runterladen von:
 https://octave.sourceforge.io/nurbs/index.html
 
-Zusätzlich wird zur Visulisierung eine Version von ParaView benötigt:
+Zusätzlich wird zur Visualisierung eine Version von ParaView benötigt:
 https://www.paraview.org/
